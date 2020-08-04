@@ -28,7 +28,7 @@ body{
 	
 }
 .footer{
-	background-color: gray;
+	
 	width: 1000px;
 	height: 60px;
 	color: #fff;
@@ -88,4 +88,29 @@ body{
 	height: 150px;
 	width: 200px;
 }
-.main .right 
+.main .right .buy:hover{
+	background-color: #66635E;
+}
+.main .right .menu-right ul{
+	margin: 0px;
+	padding: 0px;
+}
+.main .right .menu-right ul li{
+	list-style: none;
+	
+}
+.main .right .menu-right ul li a{
+	text-decoration: none;
+	color:#fff;
+}
+.seach{
+	margin-top: 0px;
+	padding: 0px;
+	width: 600px;
+
+}
+.seach .seach-shop{
+	margin: 0px;
+	padding: 0px;
+
+}
