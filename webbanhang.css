@@ -1,0 +1,61 @@
+.menu-top{
+	width: 1000px;
+	margin: 0 auto;
+	background-color: #DB6618 ;
+	 position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    z-index: 100;
+}
+
+.logo{
+	float:left;
+	height: 100px;
+
+}
+.logo img{
+	height: 100%;
+	width: auto;
+}
+.header{
+	
+	height: 40px;
+}
+ul li{
+	list-style: none;
+}
+ul.left_menu li{
+	float: left;
+	
+}
+ul.right_menu li{
+	float: right;
+	}
+ul.right_menu li a{
+	text-decoration: none;
+	padding: 5px 5px;
+	color: #fff;
+}
+ul.left_menu li a{
+	text-decoration:none;
+	padding: 5px 5px;
+	color: #fff;
+}
+.banner {
+	height: auto;
+	width: auto;
+}
+.banner img{
+	width: 1000px;
+}
+.t-shirt ul{
+	margin: 0px;
+	padding: 0px;
+}
+.t-shirt ul li{
+	list-style: none;
+
+}
